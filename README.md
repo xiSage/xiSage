@@ -1,4 +1,5 @@
 ## Coding for fun
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiSage&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![xiSage's Stats](https://github-readme-stats.vercel.app/api?username=xiSage&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![xiSage's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiSage&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
